@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:weather_app/pages/controller.dart';
 import 'package:weather_app/utils/models.dart';
 import 'package:http/http.dart' as http;
+import 'package:intl/intl.dart';
 
 class HomePage extends StatefulWidget {
   @override
